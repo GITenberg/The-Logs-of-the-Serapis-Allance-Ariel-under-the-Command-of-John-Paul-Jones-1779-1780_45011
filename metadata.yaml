@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43033'
     url: http://www.gutenberg.org/2009/agents/43033
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45011#The-Logs-of-the-Serapis-Allance-Ariel-under-the-Command-of-John-Paul-Jones-1779-1780
 gutenberg_issued: '2014-02-25'
 gutenberg_type: Text
 identifiers:
